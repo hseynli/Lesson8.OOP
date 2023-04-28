@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\bin\Debug\net6.0\06.SelfAssociation.exe
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\bin\Debug\net6.0\06.SelfAssociation.deps.json
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\bin\Debug\net6.0\06.SelfAssociation.runtimeconfig.json
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\bin\Debug\net6.0\06.SelfAssociation.dll
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\bin\Debug\net6.0\06.SelfAssociation.pdb
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\06.SelfAssociation.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\06.SelfAssociation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\06.SelfAssociation.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\06.SelfAssociation.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\06.SelfAssociation.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\06.SelfAssociation.dll
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\refint\06.SelfAssociation.dll
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\06.SelfAssociation.pdb
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\06.SelfAssociation.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson8.OOP\06.SelfAssociation\obj\Debug\net6.0\ref\06.SelfAssociation.dll

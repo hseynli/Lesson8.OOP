@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\02.PartialClasses.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\02.PartialClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\02.PartialClasses.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\02.PartialClasses.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\02.PartialClasses.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\bin\Debug\net6.0\02.PartialClasses.exe
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\bin\Debug\net6.0\02.PartialClasses.deps.json
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\bin\Debug\net6.0\02.PartialClasses.runtimeconfig.json
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\bin\Debug\net6.0\02.PartialClasses.dll
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\bin\Debug\net6.0\02.PartialClasses.pdb
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\02.PartialClasses.dll
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\refint\02.PartialClasses.dll
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\02.PartialClasses.pdb
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\02.PartialClasses.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson8.OOP\02.PartialClasses\obj\Debug\net6.0\ref\02.PartialClasses.dll
